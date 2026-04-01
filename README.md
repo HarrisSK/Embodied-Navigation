@@ -5,22 +5,18 @@ A list of papers and relevant materials on Embodied Navigation
 
 This repository focuses on papers related to:
 - language-grounded navigation
-- vision-language models (VLMs / LVLMs)
-- semantic navigation
+- Object-goal navigation
 - vision-language navigation (VLN)
-- object-goal and scene-graph-based navigation
 
 This repository particularly distinguishes between:
 - methods that rely on prebuilt global maps
 - methods that use only egocentric observations at test time
 - hybrid systems combining VLM reasoning with planning/control
 
-## Taxonomy
-
 ### 1. Global-map-based navigation
 Methods that first build a global semantic map / visual-language map / scene graph, then perform language grounding and planning.
 
-See: [papers/map_based.md](papers/map_based.md)
+- [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350)
 
 ### 2. Egocentric policy-based navigation
 Methods that rely primarily on first-person observations at test time and predict actions online.
