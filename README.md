@@ -20,7 +20,8 @@ Methods that first build a global semantic map / visual-language map / scene gra
 |---|---|---|
 | 2022 | VLMaps: Building Visual-Language Maps for Robot Navigation | [paper](https://arxiv.org/abs/2210.05714) |
 | 2024 | IVLMap | [paper](论文链接) |
-| 2025 | [OpenMap](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap) |
+| 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping
+](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap) |
 | 2025 | [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350) | [project](https://github.com/zimingluo/Point2Graph) |
 
 ### 2. Egocentric policy-based navigation
