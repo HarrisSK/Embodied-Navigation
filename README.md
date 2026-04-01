@@ -33,7 +33,3 @@ Methods that use VLMs for high-level grounding, subgoal generation, or semantic 
 
 See: [papers/hybrid.md](papers/hybrid.md)
 
-### 4. Scene-graph-based navigation
-Methods that use scene graphs or structured semantic spatial representations for navigation.
-
-See: [papers/scene_graph.md](papers/scene_graph.md)
