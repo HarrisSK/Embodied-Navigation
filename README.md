@@ -16,7 +16,7 @@ This repository particularly distinguishes between:
 ### 1. Global-map-based navigation
 Methods that first build a global semantic map / visual-language map / scene graph, then perform language grounding and planning.
 
-- [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350)
+- [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350)[[project](https://github.com/zimingluo/Point2Graph)]
 
 ### 2. Egocentric policy-based navigation
 Methods that rely primarily on first-person observations at test time and predict actions online.
