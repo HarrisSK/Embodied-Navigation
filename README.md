@@ -3,17 +3,12 @@ A list of papers and relevant materials on Embodied Navigation
 
 ## Scope
 
-This repository focuses on papers related to:
+According to the task settings and navigation paradigm, this repository classify papers to the following topic:
 - language-grounded navigation
 - Object-goal navigation
 - vision-language navigation (VLN)
 
-This repository particularly distinguishes between:
-- methods that rely on prebuilt global maps
-- methods that use only egocentric observations at test time
-- hybrid systems combining VLM reasoning with planning/control
-
-### 1. Global-map-based navigation
+### 1. Langugae-Grounded Navigation
 Methods that first build a global semantic map / visual-language map / scene graph, then perform language grounding and planning.
 
 | Year | Paper | Link |
@@ -23,13 +18,21 @@ Methods that first build a global semantic map / visual-language map / scene gra
 | 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap) |
 | 2025 | [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350) | [project](https://github.com/zimingluo/Point2Graph) |
 
-### 2. Egocentric policy-based navigation
-Methods that rely primarily on first-person observations at test time and predict actions online.
+### 2. Object-Goal Navigation
+Agent is tasked to look for specific objects
 
-See: [papers/egocentric_policy.md](papers/egocentric_policy.md)
+| Year | Paper | Link |
+|---|---|---|
+| 2024 | [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://arxiv.org/abs/2312.03275) | [project](https://github.com/openmap-project/OpenMap) |
+| 2026 | [FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning](https://arxiv.org/pdf/2509.16445) | [project](https://github.com/zimingluo/Point2Graph) |
 
-### 3. Hybrid planning frameworks
+### 3. Vision-Language Navigation
 Methods that use VLMs for high-level grounding, subgoal generation, or semantic reasoning, while downstream planning/control handles execution.
 
-See: [papers/hybrid.md](papers/hybrid.md)
+| Year | Paper | Link |
+|---|---|---|
+| 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap) |
+| 2024 | [ETPNav: Evolving Topological Planning for
+Vision-Language Navigation in Continuous
+Environments]([https://arxiv.org/abs/2409.10350](https://arxiv.org/pdf/2304.03047v2)) | [project](https://github.com/MarSaKi/ETPNav)
 
