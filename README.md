@@ -19,12 +19,14 @@ Methods that first build a global semantic map / visual-language map / scene gra
 | 2025 | [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350) | [project](https://github.com/zimingluo/Point2Graph) |
 
 ### 2. Object-Goal Navigation
-Agent is tasked to look for specific objects
+Agent is tasked to look for an instance of object categories
 
 | Year | Paper | Link |
 |---|---|---|
+| 2020 | [Object Goal Navigation using Goal-Oriented Semantic Exploration](https://arxiv.org/pdf/2007.00643) | [project](https://github.com/devendrachaplot/Object-Goal-Navigation) |
 | 2024 | [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://arxiv.org/abs/2312.03275) | [project](https://github.com/openmap-project/OpenMap) |
 | 2026 | [FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning](https://arxiv.org/pdf/2509.16445) | [project](https://github.com/zimingluo/Point2Graph) |
+| 2026 | [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/pdf/2412.10439) | [project](https://github.com/yhanCao/CogNav_ObjNav) |
 
 ### 3. Vision-Language Navigation
 Methods that use VLMs for high-level grounding, subgoal generation, or semantic reasoning, while downstream planning/control handles execution.
@@ -33,4 +35,9 @@ Methods that use VLMs for high-level grounding, subgoal generation, or semantic 
 |---|---|---|
 | 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap) |
 | 2024 | [ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2304.03047v2)| [project](https://github.com/MarSaKi/ETPNav)
+
+### 4. Dataset
+|---|---|---|
+| 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap) |
+| 2024 | [HM3D‑OVON: A Dataset and Benchmark for Open‑Vocabulary Object Goal Navigation](https://arxiv.org/pdf/2304.03047v2)| [project](https://github.com/MarSaKi/ETPNav)
 
