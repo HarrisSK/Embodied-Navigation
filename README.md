@@ -32,7 +32,5 @@ Methods that use VLMs for high-level grounding, subgoal generation, or semantic 
 | Year | Paper | Link |
 |---|---|---|
 | 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap) |
-| 2024 | [ETPNav: Evolving Topological Planning for
-Vision-Language Navigation in Continuous
-Environments]([https://arxiv.org/abs/2409.10350](https://arxiv.org/pdf/2304.03047v2)) | [project](https://github.com/MarSaKi/ETPNav)
+| 2024 | [ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2304.03047v2)| [project](https://github.com/MarSaKi/ETPNav)
 
