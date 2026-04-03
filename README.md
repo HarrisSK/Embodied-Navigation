@@ -19,7 +19,7 @@ Methods that first build a global semantic map / visual-language map / scene gra
 | 2025 | [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350) | [project](https://github.com/zimingluo/Point2Graph) |
 
 ### 2. Object-Goal Navigation
-Agent is tasked to look for an instance of object categories
+Agent is tasked for navigateing to an instance of the given object category in unseen environments
 
 | Year | Paper | Link |
 |---|---|---|
