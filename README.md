@@ -42,6 +42,7 @@ Methods that use VLMs for high-level grounding, subgoal generation, or semantic 
 | 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap)
 
 ### 4. Dataset
+| Year | Paper | Link |
 |---|---|---|
 | 2024 | [HM3D‑OVON: A Dataset and Benchmark for Open‑Vocabulary Object Goal Navigation](https://arxiv.org/pdf/2304.03047v2)| [project](https://github.com/MarSaKi/ETPNav)|
 
