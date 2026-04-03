@@ -25,10 +25,10 @@ Agent is tasked to look for an instance of object categories
 |---|---|---|
 | 2020 | [Object Goal Navigation using Goal-Oriented Semantic Exploration](https://arxiv.org/pdf/2007.00643) | [project](https://github.com/devendrachaplot/Object-Goal-Navigation) |
 | 2024 | [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://arxiv.org/abs/2312.03275) | [project](https://github.com/openmap-project/OpenMap) |
-| 2025 | []() | []() |
 | 2024 | [OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models](https://aclanthology.org/2024.findings-naacl.24.pdf) | [project](https://github.com/yxKryptonite/OpenFMNav) |
 | 2024 | [Zero-shot Object Navigation with Vision-Language Models Reasoning](https://arxiv.org/pdf/2410.18570) | [project](https://vlt-lzson.github.io/) |
 | 2025 | [CL-CoTNav: Closed-Loop Hierarchical Chain-of-Thought for Zero-Shot Object-Goal Navigation with Vision-Language Models](https://arxiv.org/pdf/2504.09000) | [project]() |
+| 2025 | [An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion](https://arxiv.org/pdf/2504.14478) | [project](https://github.com/Robotics-STAR-Lab/ApexNav) |
 | 2025 | [Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs](https://arxiv.org/pdf/2409.18794) | [project](https://github.com/YanyuanQiao/Open-Nav) |
 | 2026 | [FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning](https://arxiv.org/pdf/2509.16445) | [project](https://github.com/zimingluo/Point2Graph) |
 | 2026 | [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/pdf/2412.10439) | [project](https://github.com/yhanCao/CogNav_ObjNav) |
