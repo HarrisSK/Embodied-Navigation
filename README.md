@@ -35,7 +35,6 @@ Agent is tasked for navigateing to an instance of the given object category in u
 | 2024 | [Zero-shot Object Navigation with Vision-Language Models Reasoning](https://arxiv.org/pdf/2410.18570) | [project](https://vlt-lzson.github.io/) |
 | 2025 | [CL-CoTNav: Closed-Loop Hierarchical Chain-of-Thought for Zero-Shot Object-Goal Navigation with Vision-Language Models](https://arxiv.org/pdf/2504.09000) | [project]() |
 | 2025 | [An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion](https://arxiv.org/pdf/2504.14478) | [project](https://github.com/Robotics-STAR-Lab/ApexNav) |
-| 2025 | [Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs](https://arxiv.org/pdf/2409.18794) | [project](https://github.com/YanyuanQiao/Open-Nav) |
 | 2026 | [FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning](https://arxiv.org/pdf/2509.16445) | [project](https://github.com/zimingluo/Point2Graph) |
 | 2026 | [CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://arxiv.org/pdf/2412.10439) | [project](https://github.com/yhanCao/CogNav_ObjNav) |
 
@@ -45,6 +44,7 @@ Methods that use VLMs for high-level grounding, subgoal generation, or semantic 
 | Year | Paper | Link |
 |---|---|---|
 | 2024 | [ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2304.03047v2)| [project](https://github.com/MarSaKi/ETPNav)|
+| 2025 | [Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs](https://arxiv.org/pdf/2409.18794) | [project](https://github.com/YanyuanQiao/Open-Nav) |
 | 2025 | [OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping](https://arxiv.org/pdf/2508.01723) | [project](https://github.com/openmap-project/OpenMap)
 
 ### 4. Dataset
